@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Disallowed:
 
 sitemap: https://tutorials.ubuntu.com/sitemap.xml
