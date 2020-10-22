@@ -1,4 +1,4 @@
-# Ubuntu tutorials
+# Ubuntu tutorial
 
 ## Running this site
 
@@ -9,7 +9,7 @@ There are two primary ways to run this website locally. We recommend using the `
 
 We also make use of a `./run` script that we generate with our [generator-canonical-webteam Yeoman generator](https://github.com/canonical-webteam/generator-canonical-webteam).
 
-#### Dependencies
+#### Dependency
 
 - Latest version of Docker
 
